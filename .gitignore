@@ -3,10 +3,10 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
-.postgres-deployment.yaml
-.postgres-secrets.yml
-.postgres-service.yaml
-.postgres-storage.yaml
+postgres-deployment.yaml
+postgres-secrets.yml
+postgres-service.yaml
+postgres-storage.yaml
 
 
 ### STS ###
